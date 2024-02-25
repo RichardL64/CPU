@@ -7,7 +7,11 @@ Probably forth based, a possible past where 6502 assembly had more support for a
 Names
   Histocially always used 'Lo4'    - Lincoln Object Forth
   Recently prefer 'Throf'          - Forth kindof backwards, i.e. like the word defining, lack of syntax, perhaps remove the reverse polish
-  
+
+Status
+  Assembler basically working, no friendly error messages - drops to python
+  Can sucessfully assemble microcode and the resulting assembler instructions defined by it
+
 
 Lo4.numbers     OSX Numbers file playing with ISAs instruction set implmentation etc.
 
