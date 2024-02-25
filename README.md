@@ -3,13 +3,13 @@ Homebrew CPU - assembler etc
 Probably forth based, a possible past where 6502 assembly had more support for a stack machine
 16 bit
 
+
 Names
-  Histocially always used 'Lo4'   - Lincoln Object Forth
+  Histocially always used 'Lo4'    - Lincoln Object Forth
   Recently prefer 'Throf'          - Forth kindof backwards, i.e. like the word defining, lack of syntax, perhaps remove the reverse polish
   
-Python support functionality
 
-Lo4             OSX Numbers file playing with ISAs instruction set implmentation etc.
+Lo4.numbers     OSX Numbers file playing with ISAs instruction set implmentation etc.
 
 asm.py          Assembler instructions driven from microcode assembly
                 Generates SREC format object files including some non standard label lines
